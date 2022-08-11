@@ -37,7 +37,7 @@ This is apart of the 50 projects in 50 days challenge and is the sixth project.
 
 # Desktop Preview - active
 
-![screenshot](https://github.com/romila2003/Scroll-Animation/blob/main/Desktop%20preview.PNG)
+![screenshot](https://github.com/romila2003/Scroll-Animation/blob/main/Desktop%20preview%20-%20active.PNG)
 
 
 ### Links
